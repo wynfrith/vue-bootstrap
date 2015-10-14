@@ -1,5 +1,5 @@
 # vue-bootstrap
 
-－ webpack
-－ coffeescript
-－ less
+- webpack
+- coffeescript
+- less
