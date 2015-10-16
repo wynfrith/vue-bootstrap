@@ -1,4 +1,4 @@
-<div id="home">
+<div class="{{scoped}}">
   <header>
     <h1>{{title}}</h1>
   </header>
